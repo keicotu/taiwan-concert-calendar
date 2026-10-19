@@ -18,7 +18,11 @@ import {
   X,
   Ticket,
 } from 'lucide-react';
+import rawConcerts from '../data/concerts.json';
 import { mockConcerts, Concert, ConcertDate } from '../data/mockConcerts';
+
+const allConcerts: Concert[] =
+  rawConcerts && rawConcerts.length > 0 ? (rawConcerts as unknown as Concert[]) : mockConcerts;
 
 export default function ConcertCalendarPage() {
   const [viewMode, setViewMode] = useState<'list' | 'calendar'>('list');
@@ -34,7 +38,7 @@ export default function ConcertCalendarPage() {
 
   // Filtered concerts
   const filteredConcerts = useMemo(() => {
-    return mockConcerts.filter((c) => {
+    return allConcerts.filter((c) => {
       // Organizer
       if (selectedOrganizer !== 'all' && c.source !== selectedOrganizer) return false;
       // Category

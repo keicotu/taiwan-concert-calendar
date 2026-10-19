@@ -1,0 +1,592 @@
+[
+  {
+    "id": "opentix-1993266721322434561",
+    "title": "【2026 TSO 大師系列】殷巴爾、齊柏絲坦與TSO",
+    "organizer": "臺北市立交響樂團",
+    "source": "opentix",
+    "performers": [
+      "殷巴爾",
+      "馬勒",
+      "普羅科菲夫"
+    ],
+    "category": "交響樂",
+    "dates": [
+      {
+        "datetime": "2026-10-30T11:30:00+00:00",
+        "venue": "國家音樂廳",
+        "city": "台北",
+        "status": "on_sale"
+      }
+    ],
+    "posterUrl": "https://s3.resource.opentix.life/upload/program/1789697082080A9gFlsbce7.jpeg",
+    "ticketUrl": "https://www.opentix.life/event/1993266721322434561",
+    "priceRange": "NT$ 300 - 2,000",
+    "aiSummary": "✨ Eliahu Inbal, Lilya Zilberstein & TSO",
+    "description": "【2026 TSO 大師系列】殷巴爾、齊柏絲坦與TSO"
+  },
+  {
+    "id": "opentix-1955833404180180992",
+    "title": "2026風動室內樂團《無限》宮崎駿動畫音樂精選",
+    "organizer": "花格子藝術有限公司 風動室內樂團",
+    "source": "opentix",
+    "performers": [
+      "宮崎駿",
+      "無限",
+      "風動"
+    ],
+    "category": "室內樂",
+    "dates": [
+      {
+        "datetime": "2026-10-31T06:30:00+00:00",
+        "venue": "桃園展演中心展演廳",
+        "city": "桃園",
+        "status": "on_sale"
+      },
+      {
+        "datetime": "2026-12-13T06:30:00+00:00",
+        "venue": "臺北表演藝術中心 大劇院",
+        "city": "台北",
+        "status": "on_sale"
+      }
+    ],
+    "posterUrl": "https://s3.resource.opentix.life/upload/program/1759378407767RSiKTBpDr1.jpeg",
+    "ticketUrl": "https://www.opentix.life/event/1955833404180180992",
+    "priceRange": "NT$ 800 - 2,200",
+    "aiSummary": "⭐️ 花格子藝術有限公司 風動室內樂團 精選呈獻",
+    "description": "2026風動室內樂團《無限》宮崎駿動畫音樂精選"
+  },
+  {
+    "id": "opentix-1955916913608867841",
+    "title": "2026風動室內樂團《無限》ACG電玩動漫音樂會",
+    "organizer": "花格子藝術有限公司 風動室內樂團",
+    "source": "opentix",
+    "performers": [
+      "電玩動漫",
+      "無限",
+      "風動"
+    ],
+    "category": "室內樂",
+    "dates": [
+      {
+        "datetime": "2026-10-31T11:30:00+00:00",
+        "venue": "桃園展演中心展演廳",
+        "city": "桃園",
+        "status": "on_sale"
+      },
+      {
+        "datetime": "2026-12-13T11:30:00+00:00",
+        "venue": "臺北表演藝術中心 大劇院",
+        "city": "台北",
+        "status": "on_sale"
+      }
+    ],
+    "posterUrl": "https://s3.resource.opentix.life/upload/program/1790956339672p0u8fzUvTu.jpeg",
+    "ticketUrl": "https://www.opentix.life/event/1955916913608867841",
+    "priceRange": "NT$ 800 - 2,200",
+    "aiSummary": "⭐️ 花格子藝術有限公司 風動室內樂團 精選呈獻",
+    "description": "2026風動室內樂團《無限》ACG電玩動漫音樂會"
+  },
+  {
+    "id": "opentix-2013173153050226689",
+    "title": "屏東演藝廳《沙龍音樂會》",
+    "organizer": "屏東縣政府",
+    "source": "opentix",
+    "performers": [
+      "屏東演藝廳",
+      "沙龍音樂會"
+    ],
+    "category": "室內樂",
+    "dates": [
+      {
+        "datetime": "2026-11-01T03:00:00+00:00",
+        "venue": "屏東演藝廳音樂廳 大廳",
+        "city": "屏東",
+        "status": "on_sale"
+      },
+      {
+        "datetime": "2026-11-08T03:00:00+00:00",
+        "venue": "屏東演藝廳音樂廳 大廳",
+        "city": "屏東",
+        "status": "on_sale"
+      },
+      {
+        "datetime": "2026-12-13T03:00:00+00:00",
+        "venue": "屏東演藝廳音樂廳 大廳",
+        "city": "屏東",
+        "status": "on_sale"
+      },
+      {
+        "datetime": "2026-12-20T03:00:00+00:00",
+        "venue": "屏東演藝廳音樂廳 大廳",
+        "city": "屏東",
+        "status": "on_sale"
+      },
+      {
+        "datetime": "2027-01-10T03:00:00+00:00",
+        "venue": "屏東演藝廳音樂廳 大廳",
+        "city": "屏東",
+        "status": "on_sale"
+      },
+      {
+        "datetime": "2027-01-17T03:00:00+00:00",
+        "venue": "屏東演藝廳音樂廳 大廳",
+        "city": "屏東",
+        "status": "on_sale"
+      },
+      {
+        "datetime": "2027-02-21T03:00:00+00:00",
+        "venue": "屏東演藝廳音樂廳 大廳",
+        "city": "屏東",
+        "status": "on_sale"
+      }
+    ],
+    "posterUrl": "https://s3.resource.opentix.life/upload/program/1768813727780HF8HpS1bec.png",
+    "ticketUrl": "https://www.opentix.life/event/2013173153050226689",
+    "priceRange": "NT$ 50",
+    "aiSummary": "⭐️ 屏東縣政府 精選呈獻",
+    "description": "屏東演藝廳《沙龍音樂會》"
+  },
+  {
+    "id": "opentix-1993268392975925249",
+    "title": "【2026 TSO 大師系列】殷巴爾與TSO之馬勒第九號",
+    "organizer": "臺北市立交響樂團",
+    "source": "opentix",
+    "performers": [
+      "殷巴爾",
+      "馬勒",
+      "TSO"
+    ],
+    "category": "交響樂",
+    "dates": [
+      {
+        "datetime": "2026-11-06T11:30:00+00:00",
+        "venue": "國家音樂廳",
+        "city": "台北",
+        "status": "on_sale"
+      }
+    ],
+    "posterUrl": "https://s3.resource.opentix.life/upload/program/1790219395980qxsPMBNWKL.jpeg",
+    "ticketUrl": "https://www.opentix.life/event/1993268392975925249",
+    "priceRange": "NT$ 300 - 2,000",
+    "aiSummary": "✨ Eliahu Inbal & TSO: Mahler No. 9",
+    "description": "【2026 TSO 大師系列】殷巴爾與TSO之馬勒第九號"
+  },
+  {
+    "id": "opentix-1993269592550359041",
+    "title": "【2026 TSO 大師系列】殷巴爾、霍洛登科與TSO",
+    "organizer": "臺北市立交響樂團",
+    "source": "opentix",
+    "performers": [
+      "殷巴爾",
+      "春之祭",
+      "霍洛登科"
+    ],
+    "category": "交響樂",
+    "dates": [
+      {
+        "datetime": "2026-11-13T11:30:00+00:00",
+        "venue": "國家音樂廳",
+        "city": "台北",
+        "status": "on_sale"
+      }
+    ],
+    "posterUrl": "https://s3.resource.opentix.life/upload/program/179023873377600pEbPu8vq.jpeg",
+    "ticketUrl": "https://www.opentix.life/event/1993269592550359041",
+    "priceRange": "NT$ 300 - 2,000",
+    "aiSummary": "✨ Eliahu Inbal, Vadym Kholodenko & TSO",
+    "description": "【2026 TSO 大師系列】殷巴爾、霍洛登科與TSO"
+  },
+  {
+    "id": "opentix-1993239082164842497",
+    "title": "卡通大冒險-親子音樂會",
+    "organizer": "金喇叭銅管樂團",
+    "source": "opentix",
+    "performers": [
+      "銅管樂團",
+      "金喇叭",
+      "卡通音樂會"
+    ],
+    "category": "室內樂",
+    "dates": [
+      {
+        "datetime": "2026-11-21T06:30:00+00:00",
+        "venue": "南投縣政府文化局演藝廳",
+        "city": "南投",
+        "status": "on_sale"
+      }
+    ],
+    "posterUrl": "https://s3.resource.opentix.life/upload/program/1766733429902uUfDRngF8i.jpeg",
+    "ticketUrl": "https://www.opentix.life/event/1993239082164842497",
+    "priceRange": "NT$ 300 - 1,200",
+    "aiSummary": "⭐️ 金喇叭銅管樂團 精選呈獻",
+    "description": "卡通大冒險-親子音樂會"
+  },
+  {
+    "id": "mna-784",
+    "title": "【MNA 牛耳藝術】SM CLASSICS LIVE 2026 IN TAIPEI",
+    "organizer": "MNA 牛耳藝術",
+    "source": "mna",
+    "performers": [
+      "SM CLASSICS LIVE 2026 IN TAIPEI"
+    ],
+    "category": "交響樂",
+    "dates": [
+      {
+        "datetime": "2026-11-25T19:30:00+00:00",
+        "venue": "國家音樂廳",
+        "city": "台北",
+        "status": "on_sale"
+      }
+    ],
+    "posterUrl": "https://www.mna.com.tw/storage/app/uploads/public/6ac/5d3/200/6ac5d32005082876318575.jpg",
+    "ticketUrl": "https://ticket.mna.com.tw/UTK0102_?TYPE=0",
+    "priceRange": "詳見牛耳售票系統",
+    "aiSummary": "⭐️ MNA 牛耳藝術年度呈獻：SM CLASSICS LIVE 2026 IN TAIPEI",
+    "description": "MNA 牛耳藝術官方主辦頂尖音樂盛事 — SM CLASSICS LIVE 2026 IN TAIPEI，更多巡演場次與節目細節請參閱官方詳情。"
+  },
+  {
+    "id": "mna-777",
+    "title": "【MNA 牛耳藝術】Philharmonix",
+    "organizer": "MNA 牛耳藝術",
+    "source": "mna",
+    "performers": [
+      "Philharmonix"
+    ],
+    "category": "交響樂",
+    "dates": [
+      {
+        "datetime": "2026-11-25T19:30:00+00:00",
+        "venue": "國家音樂廳",
+        "city": "台北",
+        "status": "on_sale"
+      }
+    ],
+    "posterUrl": "https://www.mna.com.tw/storage/app/uploads/public/6ac/4c1/ac5/6ac4c1ac5e5bc100889652.jpg",
+    "ticketUrl": "https://ticket.mna.com.tw/UTK0102_?TYPE=0",
+    "priceRange": "詳見牛耳售票系統",
+    "aiSummary": "⭐️ MNA 牛耳藝術年度呈獻：Philharmonix",
+    "description": "MNA 牛耳藝術官方主辦頂尖音樂盛事 — Philharmonix，更多巡演場次與節目細節請參閱官方詳情。"
+  },
+  {
+    "id": "mna-776",
+    "title": "【MNA 牛耳藝術】Teodor Currentzis and Utopia Orchestra",
+    "organizer": "MNA 牛耳藝術",
+    "source": "mna",
+    "performers": [
+      "Teodor Currentzis and Utopia Orchestra"
+    ],
+    "category": "交響樂",
+    "dates": [
+      {
+        "datetime": "2026-11-25T19:30:00+00:00",
+        "venue": "臺北國家音樂廳",
+        "city": "台北",
+        "status": "on_sale"
+      }
+    ],
+    "posterUrl": "https://www.mna.com.tw/storage/app/uploads/public/6ac/4bd/eee/6ac4bdeeec270698924550.jpg",
+    "ticketUrl": "https://ticket.mna.com.tw/UTK0102_?TYPE=0",
+    "priceRange": "詳見牛耳售票系統",
+    "aiSummary": "⭐️ MNA 牛耳藝術年度呈獻：Teodor Currentzis and Utopia Orchestra",
+    "description": "MNA 牛耳藝術官方主辦頂尖音樂盛事 — Teodor Currentzis and Utopia Orchestra，更多巡演場次與節目細節請參閱官方詳情。"
+  },
+  {
+    "id": "mna-778",
+    "title": "【MNA 牛耳藝術】Lang Lang Piano Recital",
+    "organizer": "MNA 牛耳藝術",
+    "source": "mna",
+    "performers": [
+      "Lang Lang Piano Recital"
+    ],
+    "category": "鋼琴獨奏",
+    "dates": [
+      {
+        "datetime": "2026-11-25T19:30:00+00:00",
+        "venue": "國家音樂廳",
+        "city": "台北",
+        "status": "on_sale"
+      }
+    ],
+    "posterUrl": "https://www.mna.com.tw/storage/app/uploads/public/6ab/e23/b58/6abe23b583c6b798387134.jpg",
+    "ticketUrl": "https://ticket.mna.com.tw/UTK0102_?TYPE=0",
+    "priceRange": "詳見牛耳售票系統",
+    "aiSummary": "⭐️ MNA 牛耳藝術年度呈獻：Lang Lang Piano Recital",
+    "description": "MNA 牛耳藝術官方主辦頂尖音樂盛事 — Lang Lang Piano Recital，更多巡演場次與節目細節請參閱官方詳情。"
+  },
+  {
+    "id": "mna-783",
+    "title": "【MNA 牛耳藝術】Twilight: New Moon in Concert",
+    "organizer": "MNA 牛耳藝術",
+    "source": "mna",
+    "performers": [
+      "Twilight: New Moon in Concert"
+    ],
+    "category": "跨界合奏",
+    "dates": [
+      {
+        "datetime": "2026-11-25T19:30:00+00:00",
+        "venue": "國家音樂廳",
+        "city": "台北",
+        "status": "on_sale"
+      }
+    ],
+    "posterUrl": "https://www.mna.com.tw/storage/app/uploads/public/6ab/b6b/9bc/6abb6b9bc2cc8637978749.jpg",
+    "ticketUrl": "https://ticket.mna.com.tw/UTK0102_?TYPE=0",
+    "priceRange": "詳見牛耳售票系統",
+    "aiSummary": "⭐️ MNA 牛耳藝術年度呈獻：Twilight: New Moon in Concert",
+    "description": "MNA 牛耳藝術官方主辦頂尖音樂盛事 — Twilight: New Moon in Concert，更多巡演場次與節目細節請參閱官方詳情。"
+  },
+  {
+    "id": "mna-782",
+    "title": "【MNA 牛耳藝術】Marc André Double Bass Concert",
+    "organizer": "MNA 牛耳藝術",
+    "source": "mna",
+    "performers": [
+      "Marc André Double Bass Concert"
+    ],
+    "category": "室內樂",
+    "dates": [
+      {
+        "datetime": "2026-11-25T19:30:00+00:00",
+        "venue": "國家音樂廳",
+        "city": "台北",
+        "status": "on_sale"
+      }
+    ],
+    "posterUrl": "https://www.mna.com.tw/storage/app/uploads/public/6ab/b68/f58/6abb68f58d3c4047474744.jpg",
+    "ticketUrl": "https://ticket.mna.com.tw/UTK0102_?TYPE=0",
+    "priceRange": "詳見牛耳售票系統",
+    "aiSummary": "⭐️ MNA 牛耳藝術年度呈獻：Marc André Double Bass Concert",
+    "description": "MNA 牛耳藝術官方主辦頂尖音樂盛事 — Marc André Double Bass Concert，更多巡演場次與節目細節請參閱官方詳情。"
+  },
+  {
+    "id": "opentix-2028634382323146752",
+    "title": "魔幻樂章-銅管村嘉年華",
+    "organizer": "金喇叭銅管樂團",
+    "source": "opentix",
+    "performers": [
+      "親子音樂會",
+      "銅管",
+      "金喇叭"
+    ],
+    "category": "室內樂",
+    "dates": [
+      {
+        "datetime": "2026-11-28T06:30:00+00:00",
+        "venue": "桃園展演中心展演廳",
+        "city": "桃園",
+        "status": "on_sale"
+      },
+      {
+        "datetime": "2026-12-19T06:30:00+00:00",
+        "venue": "嘉義縣表演藝術中心演藝廳",
+        "city": "嘉義",
+        "status": "on_sale"
+      }
+    ],
+    "posterUrl": "https://s3.resource.opentix.life/upload/program/1787904781557raA1j1l4go.png",
+    "ticketUrl": "https://www.opentix.life/event/2028634382323146752",
+    "priceRange": "NT$ 300 - 1,200",
+    "aiSummary": "⭐️ 金喇叭銅管樂團 精選呈獻",
+    "description": "魔幻樂章-銅管村嘉年華"
+  },
+  {
+    "id": "opentix-1992891801301155841",
+    "title": "【2026 TSO 首席指揮】里柏瑞契、喬瑟芙維琪與TSO",
+    "organizer": "臺北市立交響樂團",
+    "source": "opentix",
+    "performers": [
+      "TSO",
+      "喬瑟芙維琪",
+      "里柏瑞契"
+    ],
+    "category": "交響樂",
+    "dates": [
+      {
+        "datetime": "2026-12-02T11:30:00+00:00",
+        "venue": "臺北市中山堂中正廳",
+        "city": "台北",
+        "status": "on_sale"
+      }
+    ],
+    "posterUrl": "https://s3.resource.opentix.life/upload/program/1791267843747ZyMvgolKT7.jpeg",
+    "ticketUrl": "https://www.opentix.life/event/1992891801301155841",
+    "priceRange": "NT$ 300 - 1,200",
+    "aiSummary": "✨ Alexander Liebreich, Leila Josefowicz & TSO",
+    "description": "【2026 TSO 首席指揮】里柏瑞契、喬瑟芙維琪與TSO"
+  },
+  {
+    "id": "opentix-2010907685806804993",
+    "title": "巴洛克獨奏家樂團《倫敦巴赫》",
+    "organizer": "巴洛克獨奏家樂團",
+    "source": "opentix",
+    "performers": [
+      "巴洛克獨奏家樂團",
+      "侯柔安",
+      "古鋼琴"
+    ],
+    "category": "鋼琴獨奏",
+    "dates": [
+      {
+        "datetime": "2026-12-04T11:30:00+00:00",
+        "venue": "臺中國家歌劇院小劇場",
+        "city": "台中",
+        "status": "on_sale"
+      },
+      {
+        "datetime": "2026-12-06T06:30:00+00:00",
+        "venue": "衛武營國家藝術文化中心表演廳",
+        "city": "高雄",
+        "status": "on_sale"
+      },
+      {
+        "datetime": "2026-12-13T06:30:00+00:00",
+        "venue": "誠品表演廳",
+        "city": "台北",
+        "status": "on_sale"
+      }
+    ],
+    "posterUrl": "https://s3.resource.opentix.life/upload/program/1792146279179wa8sOSEJhs.png",
+    "ticketUrl": "https://www.opentix.life/event/2010907685806804993",
+    "priceRange": "NT$ 800 - 2,200",
+    "aiSummary": "✨ The London Bach",
+    "description": "巴洛克獨奏家樂團《倫敦巴赫》"
+  },
+  {
+    "id": "opentix-1992893712205377537",
+    "title": "【2026 TSO 首席指揮】里柏瑞契、安德佐夫斯基與TSO",
+    "organizer": "臺北市立交響樂團",
+    "source": "opentix",
+    "performers": [
+      "皇帝",
+      "里柏瑞契",
+      "安德佐夫斯基"
+    ],
+    "category": "交響樂",
+    "dates": [
+      {
+        "datetime": "2026-12-11T11:30:00+00:00",
+        "venue": "國家音樂廳",
+        "city": "台北",
+        "status": "on_sale"
+      }
+    ],
+    "posterUrl": "https://s3.resource.opentix.life/upload/program/1766730671655hEr4K2R7PH.jpeg",
+    "ticketUrl": "https://www.opentix.life/event/1992893712205377537",
+    "priceRange": "NT$ 300 - 2,000",
+    "aiSummary": "✨ Alexander Liebreich, Piotr Anderszewski & TSO",
+    "description": "【2026 TSO 首席指揮】里柏瑞契、安德佐夫斯基與TSO"
+  },
+  {
+    "id": "opentix-1956171631240474625",
+    "title": "2026風動室內樂團《公主百分百2》生日驚喜",
+    "organizer": "花格子藝術有限公司 風動室內樂團",
+    "source": "opentix",
+    "performers": [
+      "親子",
+      "風動",
+      "公主"
+    ],
+    "category": "室內樂",
+    "dates": [
+      {
+        "datetime": "2026-12-19T06:30:00+00:00",
+        "venue": "臺中市中山堂",
+        "city": "台中",
+        "status": "on_sale"
+      },
+      {
+        "datetime": "2026-12-19T11:30:00+00:00",
+        "venue": "臺中市中山堂",
+        "city": "台中",
+        "status": "on_sale"
+      }
+    ],
+    "posterUrl": "https://s3.resource.opentix.life/upload/program/17593781809424tN0QxJDQB.jpeg",
+    "ticketUrl": "https://www.opentix.life/event/1956171631240474625",
+    "priceRange": "NT$ 800 - 2,200",
+    "aiSummary": "⭐️ 花格子藝術有限公司 風動室內樂團 精選呈獻",
+    "description": "2026風動室內樂團《公主百分百2》生日驚喜"
+  },
+  {
+    "id": "opentix-2030929112406941697",
+    "title": "【2026 TSO 室內沙龍】中聲紀事",
+    "organizer": "臺北市立交響樂團",
+    "source": "opentix",
+    "performers": [
+      "室內沙龍",
+      "中提琴",
+      "TSO"
+    ],
+    "category": "室內樂",
+    "dates": [
+      {
+        "datetime": "2026-12-25T11:30:00+00:00",
+        "venue": "國家兩廳院演奏廳",
+        "city": "台北",
+        "status": "on_sale"
+      }
+    ],
+    "posterUrl": "https://s3.resource.opentix.life/upload/program/1775115792612YXuFECpj2X.jpeg",
+    "ticketUrl": "https://www.opentix.life/event/2030929112406941697",
+    "priceRange": "NT$ 200 - 500",
+    "aiSummary": "✨ Viola Chamber Concert",
+    "description": "【2026 TSO 室內沙龍】中聲紀事"
+  },
+  {
+    "id": "opentix-2013099814073860097",
+    "title": "狂美《宮崎駿動畫配樂II》交響音樂會-2026暖心巡演",
+    "organizer": "獨秀文化有限公司 狂美交響管樂團",
+    "source": "opentix",
+    "performers": [
+      "親子",
+      "狂美",
+      "配樂"
+    ],
+    "category": "交響樂",
+    "dates": [
+      {
+        "datetime": "2026-12-28T11:30:00+00:00",
+        "venue": "臺北表演藝術中心 大劇院",
+        "city": "台北",
+        "status": "on_sale"
+      },
+      {
+        "datetime": "2026-12-29T11:30:00+00:00",
+        "venue": "臺北表演藝術中心 大劇院",
+        "city": "台北",
+        "status": "on_sale"
+      }
+    ],
+    "posterUrl": "https://s3.resource.opentix.life/upload/program/1774692014957oqMZGJFxV8.jpeg",
+    "ticketUrl": "https://www.opentix.life/event/2013099814073860097",
+    "priceRange": "NT$ 500 - 2,200",
+    "aiSummary": "⭐️ 獨秀文化有限公司 狂美交響管樂團 精選呈獻",
+    "description": "狂美《宮崎駿動畫配樂II》交響音樂會-2026暖心巡演"
+  },
+  {
+    "id": "opentix-2030931388949524481",
+    "title": "【2026 TSO 室內沙龍】交織的語言：歐洲室內樂的對話",
+    "organizer": "臺北市立交響樂團",
+    "source": "opentix",
+    "performers": [
+      "室內沙龍",
+      "弦樂",
+      "薩克斯風"
+    ],
+    "category": "室內樂",
+    "dates": [
+      {
+        "datetime": "2026-12-28T11:30:00+00:00",
+        "venue": "國家兩廳院演奏廳",
+        "city": "台北",
+        "status": "on_sale"
+      }
+    ],
+    "posterUrl": "https://s3.resource.opentix.life/upload/program/1773307876244N2eESmGcBc.jpeg",
+    "ticketUrl": "https://www.opentix.life/event/2030931388949524481",
+    "priceRange": "NT$ 200 - 500",
+    "aiSummary": "✨ Chamber Concert for Strings and Saxophone",
+    "description": "【2026 TSO 室內沙龍】交織的語言：歐洲室內樂的對話"
+  }
+]
