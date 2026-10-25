@@ -1,30 +1,5 @@
 [
   {
-    "id": "opentix-2029762519870402561",
-    "title": "【2026 TSO 室內沙龍】當青春遇見永恆：五把弦樂的跨時空對話",
-    "organizer": "臺北市立交響樂團",
-    "source": "opentix",
-    "performers": [
-      "五重奏",
-      "室內沙龍",
-      "弦樂"
-    ],
-    "category": "室內樂",
-    "dates": [
-      {
-        "datetime": "2026-10-27T11:30:00+00:00",
-        "venue": "國家兩廳院演奏廳",
-        "city": "台北",
-        "status": "on_sale"
-      }
-    ],
-    "posterUrl": "https://s3.resource.opentix.life/upload/program/1789697447241XvK05d62XH.jpeg",
-    "ticketUrl": "https://www.opentix.life/event/2029762519870402561",
-    "priceRange": "NT$ 200 - 500",
-    "aiSummary": "✨ Give Me Five",
-    "description": "【2026 TSO 室內沙龍】當青春遇見永恆：五把弦樂的跨時空對話"
-  },
-  {
     "id": "opentix-1993266721322434561",
     "title": "【2026 TSO 大師系列】殷巴爾、齊柏絲坦與TSO",
     "organizer": "臺北市立交響樂團",
@@ -245,6 +220,31 @@
     "priceRange": "NT$ 300 - 1,200",
     "aiSummary": "⭐️ 金喇叭銅管樂團 精選呈獻",
     "description": "卡通大冒險-親子音樂會"
+  },
+  {
+    "id": "opentix-2030925277714800641",
+    "title": "【2026 TSO 室內沙龍】對映之聲 ——他與她的音樂對話",
+    "organizer": "臺北市立交響樂團",
+    "source": "opentix",
+    "performers": [
+      "五重奏",
+      "室內沙龍",
+      "四重奏"
+    ],
+    "category": "室內樂",
+    "dates": [
+      {
+        "datetime": "2026-11-22T11:30:00+00:00",
+        "venue": "國家兩廳院演奏廳",
+        "city": "台北",
+        "status": "on_sale"
+      }
+    ],
+    "posterUrl": "https://s3.resource.opentix.life/upload/program/1773307842740vLxLJwACGd.jpeg",
+    "ticketUrl": "https://www.opentix.life/event/2030925277714800641",
+    "priceRange": "NT$ 200 - 500",
+    "aiSummary": "✨ Voices of Reflection",
+    "description": "【2026 TSO 室內沙龍】對映之聲 ——他與她的音樂對話"
   },
   {
     "id": "mna-784",
@@ -534,31 +534,6 @@
     "description": "2026風動室內樂團《公主百分百2》生日驚喜"
   },
   {
-    "id": "opentix-2030929112406941697",
-    "title": "【2026 TSO 室內沙龍】中聲紀事",
-    "organizer": "臺北市立交響樂團",
-    "source": "opentix",
-    "performers": [
-      "室內沙龍",
-      "中提琴",
-      "TSO"
-    ],
-    "category": "室內樂",
-    "dates": [
-      {
-        "datetime": "2026-12-25T11:30:00+00:00",
-        "venue": "國家兩廳院演奏廳",
-        "city": "台北",
-        "status": "on_sale"
-      }
-    ],
-    "posterUrl": "https://s3.resource.opentix.life/upload/program/1775115792612YXuFECpj2X.jpeg",
-    "ticketUrl": "https://www.opentix.life/event/2030929112406941697",
-    "priceRange": "NT$ 200 - 500",
-    "aiSummary": "✨ Viola Chamber Concert",
-    "description": "【2026 TSO 室內沙龍】中聲紀事"
-  },
-  {
     "id": "opentix-2013099814073860097",
     "title": "狂美《宮崎駿動畫配樂II》交響音樂會-2026暖心巡演",
     "organizer": "獨秀文化有限公司 狂美交響管樂團",
@@ -588,5 +563,30 @@
     "priceRange": "NT$ 500 - 2,200",
     "aiSummary": "⭐️ 獨秀文化有限公司 狂美交響管樂團 精選呈獻",
     "description": "狂美《宮崎駿動畫配樂II》交響音樂會-2026暖心巡演"
+  },
+  {
+    "id": "opentix-2030931388949524481",
+    "title": "【2026 TSO 室內沙龍】交織的語言：歐洲室內樂的對話",
+    "organizer": "臺北市立交響樂團",
+    "source": "opentix",
+    "performers": [
+      "室內沙龍",
+      "弦樂",
+      "薩克斯風"
+    ],
+    "category": "室內樂",
+    "dates": [
+      {
+        "datetime": "2026-12-28T11:30:00+00:00",
+        "venue": "國家兩廳院演奏廳",
+        "city": "台北",
+        "status": "on_sale"
+      }
+    ],
+    "posterUrl": "https://s3.resource.opentix.life/upload/program/1773307876244N2eESmGcBc.jpeg",
+    "ticketUrl": "https://www.opentix.life/event/2030931388949524481",
+    "priceRange": "NT$ 200 - 500",
+    "aiSummary": "✨ Chamber Concert for Strings and Saxophone",
+    "description": "【2026 TSO 室內沙龍】交織的語言：歐洲室內樂的對話"
   }
 ]
