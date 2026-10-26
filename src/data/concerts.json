@@ -172,6 +172,31 @@
     "description": "【2026 TSO 大師系列】殷巴爾與TSO之馬勒第九號"
   },
   {
+    "id": "opentix-2030922669486235648",
+    "title": "【2026 TSO 室內沙龍】霍洛登科與TSO獨奏家",
+    "organizer": "臺北市立交響樂團",
+    "source": "opentix",
+    "performers": [
+      "室內沙龍",
+      "TSO",
+      "霍洛登科"
+    ],
+    "category": "鋼琴獨奏",
+    "dates": [
+      {
+        "datetime": "2026-11-11T11:30:00+00:00",
+        "venue": "國家兩廳院演奏廳",
+        "city": "台北",
+        "status": "on_sale"
+      }
+    ],
+    "posterUrl": "https://s3.resource.opentix.life/upload/program/1791273137026eOJ2XvHZyO.jpeg",
+    "ticketUrl": "https://www.opentix.life/event/2030922669486235648",
+    "priceRange": "NT$ 300 - 800",
+    "aiSummary": "✨ Vadym Kholodenko & TSO Soloists",
+    "description": "【2026 TSO 室內沙龍】霍洛登科與TSO獨奏家"
+  },
+  {
     "id": "opentix-1993269592550359041",
     "title": "【2026 TSO 大師系列】殷巴爾、霍洛登科與TSO",
     "organizer": "臺北市立交響樂團",
@@ -563,30 +588,5 @@
     "priceRange": "NT$ 500 - 2,200",
     "aiSummary": "⭐️ 獨秀文化有限公司 狂美交響管樂團 精選呈獻",
     "description": "狂美《宮崎駿動畫配樂II》交響音樂會-2026暖心巡演"
-  },
-  {
-    "id": "opentix-2030931388949524481",
-    "title": "【2026 TSO 室內沙龍】交織的語言：歐洲室內樂的對話",
-    "organizer": "臺北市立交響樂團",
-    "source": "opentix",
-    "performers": [
-      "室內沙龍",
-      "弦樂",
-      "薩克斯風"
-    ],
-    "category": "室內樂",
-    "dates": [
-      {
-        "datetime": "2026-12-28T11:30:00+00:00",
-        "venue": "國家兩廳院演奏廳",
-        "city": "台北",
-        "status": "on_sale"
-      }
-    ],
-    "posterUrl": "https://s3.resource.opentix.life/upload/program/1773307876244N2eESmGcBc.jpeg",
-    "ticketUrl": "https://www.opentix.life/event/2030931388949524481",
-    "priceRange": "NT$ 200 - 500",
-    "aiSummary": "✨ Chamber Concert for Strings and Saxophone",
-    "description": "【2026 TSO 室內沙龍】交織的語言：歐洲室內樂的對話"
   }
 ]
