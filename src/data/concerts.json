@@ -222,31 +222,6 @@
     "description": "卡通大冒險-親子音樂會"
   },
   {
-    "id": "opentix-2030925277714800641",
-    "title": "【2026 TSO 室內沙龍】對映之聲 ——他與她的音樂對話",
-    "organizer": "臺北市立交響樂團",
-    "source": "opentix",
-    "performers": [
-      "五重奏",
-      "室內沙龍",
-      "四重奏"
-    ],
-    "category": "室內樂",
-    "dates": [
-      {
-        "datetime": "2026-11-22T11:30:00+00:00",
-        "venue": "國家兩廳院演奏廳",
-        "city": "台北",
-        "status": "on_sale"
-      }
-    ],
-    "posterUrl": "https://s3.resource.opentix.life/upload/program/1773307842740vLxLJwACGd.jpeg",
-    "ticketUrl": "https://www.opentix.life/event/2030925277714800641",
-    "priceRange": "NT$ 200 - 500",
-    "aiSummary": "✨ Voices of Reflection",
-    "description": "【2026 TSO 室內沙龍】對映之聲 ——他與她的音樂對話"
-  },
-  {
     "id": "mna-784",
     "title": "【MNA 牛耳藝術】SM CLASSICS LIVE 2026 IN TAIPEI",
     "organizer": "MNA 牛耳藝術",
