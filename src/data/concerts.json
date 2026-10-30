@@ -1,30 +1,5 @@
 [
   {
-    "id": "opentix-1993266721322434561",
-    "title": "【2026 TSO 大師系列】殷巴爾、齊柏絲坦與TSO",
-    "organizer": "臺北市立交響樂團",
-    "source": "opentix",
-    "performers": [
-      "殷巴爾",
-      "馬勒",
-      "普羅科菲夫"
-    ],
-    "category": "交響樂",
-    "dates": [
-      {
-        "datetime": "2026-10-30T11:30:00+00:00",
-        "venue": "國家音樂廳",
-        "city": "台北",
-        "status": "on_sale"
-      }
-    ],
-    "posterUrl": "https://s3.resource.opentix.life/upload/program/1789697082080A9gFlsbce7.jpeg",
-    "ticketUrl": "https://www.opentix.life/event/1993266721322434561",
-    "priceRange": "NT$ 300 - 2,000",
-    "aiSummary": "✨ Eliahu Inbal, Lilya Zilberstein & TSO",
-    "description": "【2026 TSO 大師系列】殷巴爾、齊柏絲坦與TSO"
-  },
-  {
     "id": "opentix-1955833404180180992",
     "title": "2026風動室內樂團《無限》宮崎駿動畫音樂精選",
     "organizer": "花格子藝術有限公司 風動室內樂團",
@@ -172,31 +147,6 @@
     "description": "【2026 TSO 大師系列】殷巴爾與TSO之馬勒第九號"
   },
   {
-    "id": "opentix-2030922669486235648",
-    "title": "【2026 TSO 室內沙龍】霍洛登科與TSO獨奏家",
-    "organizer": "臺北市立交響樂團",
-    "source": "opentix",
-    "performers": [
-      "室內沙龍",
-      "TSO",
-      "霍洛登科"
-    ],
-    "category": "鋼琴獨奏",
-    "dates": [
-      {
-        "datetime": "2026-11-11T11:30:00+00:00",
-        "venue": "國家兩廳院演奏廳",
-        "city": "台北",
-        "status": "on_sale"
-      }
-    ],
-    "posterUrl": "https://s3.resource.opentix.life/upload/program/1791273137026eOJ2XvHZyO.jpeg",
-    "ticketUrl": "https://www.opentix.life/event/2030922669486235648",
-    "priceRange": "NT$ 300 - 800",
-    "aiSummary": "✨ Vadym Kholodenko & TSO Soloists",
-    "description": "【2026 TSO 室內沙龍】霍洛登科與TSO獨奏家"
-  },
-  {
     "id": "opentix-1993269592550359041",
     "title": "【2026 TSO 大師系列】殷巴爾、霍洛登科與TSO",
     "organizer": "臺北市立交響樂團",
@@ -245,6 +195,31 @@
     "priceRange": "NT$ 300 - 1,200",
     "aiSummary": "⭐️ 金喇叭銅管樂團 精選呈獻",
     "description": "卡通大冒險-親子音樂會"
+  },
+  {
+    "id": "opentix-2030925277714800641",
+    "title": "【2026 TSO 室內沙龍】對映之聲 ——他與她的音樂對話",
+    "organizer": "臺北市立交響樂團",
+    "source": "opentix",
+    "performers": [
+      "五重奏",
+      "室內沙龍",
+      "四重奏"
+    ],
+    "category": "室內樂",
+    "dates": [
+      {
+        "datetime": "2026-11-22T11:30:00+00:00",
+        "venue": "國家兩廳院演奏廳",
+        "city": "台北",
+        "status": "on_sale"
+      }
+    ],
+    "posterUrl": "https://s3.resource.opentix.life/upload/program/1793174141183E9R2cR9r8C.jpeg",
+    "ticketUrl": "https://www.opentix.life/event/2030925277714800641",
+    "priceRange": "NT$ 200 - 500",
+    "aiSummary": "✨ Voices of Reflection",
+    "description": "【2026 TSO 室內沙龍】對映之聲 ——他與她的音樂對話"
   },
   {
     "id": "mna-784",
@@ -532,6 +507,31 @@
     "priceRange": "NT$ 800 - 2,200",
     "aiSummary": "⭐️ 花格子藝術有限公司 風動室內樂團 精選呈獻",
     "description": "2026風動室內樂團《公主百分百2》生日驚喜"
+  },
+  {
+    "id": "opentix-2030929112406941697",
+    "title": "【2026 TSO 室內沙龍】中聲紀事",
+    "organizer": "臺北市立交響樂團",
+    "source": "opentix",
+    "performers": [
+      "室內沙龍",
+      "中提琴",
+      "TSO"
+    ],
+    "category": "室內樂",
+    "dates": [
+      {
+        "datetime": "2026-12-25T11:30:00+00:00",
+        "venue": "國家兩廳院演奏廳",
+        "city": "台北",
+        "status": "on_sale"
+      }
+    ],
+    "posterUrl": "https://s3.resource.opentix.life/upload/program/1775115792612YXuFECpj2X.jpeg",
+    "ticketUrl": "https://www.opentix.life/event/2030929112406941697",
+    "priceRange": "NT$ 200 - 500",
+    "aiSummary": "✨ Viola Chamber Concert",
+    "description": "【2026 TSO 室內沙龍】中聲紀事"
   },
   {
     "id": "opentix-2013099814073860097",
