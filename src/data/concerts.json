@@ -1,67 +1,5 @@
 [
   {
-    "id": "opentix-1955833404180180992",
-    "title": "2026風動室內樂團《無限》宮崎駿動畫音樂精選",
-    "organizer": "花格子藝術有限公司 風動室內樂團",
-    "source": "opentix",
-    "performers": [
-      "宮崎駿",
-      "無限",
-      "風動"
-    ],
-    "category": "室內樂",
-    "dates": [
-      {
-        "datetime": "2026-10-31T06:30:00+00:00",
-        "venue": "桃園展演中心展演廳",
-        "city": "桃園",
-        "status": "on_sale"
-      },
-      {
-        "datetime": "2026-12-13T06:30:00+00:00",
-        "venue": "臺北表演藝術中心 大劇院",
-        "city": "台北",
-        "status": "on_sale"
-      }
-    ],
-    "posterUrl": "https://s3.resource.opentix.life/upload/program/1759378407767RSiKTBpDr1.jpeg",
-    "ticketUrl": "https://www.opentix.life/event/1955833404180180992",
-    "priceRange": "NT$ 800 - 2,200",
-    "aiSummary": "⭐️ 花格子藝術有限公司 風動室內樂團 精選呈獻",
-    "description": "2026風動室內樂團《無限》宮崎駿動畫音樂精選"
-  },
-  {
-    "id": "opentix-1955916913608867841",
-    "title": "2026風動室內樂團《無限》ACG電玩動漫音樂會",
-    "organizer": "花格子藝術有限公司 風動室內樂團",
-    "source": "opentix",
-    "performers": [
-      "電玩動漫",
-      "無限",
-      "風動"
-    ],
-    "category": "室內樂",
-    "dates": [
-      {
-        "datetime": "2026-10-31T11:30:00+00:00",
-        "venue": "桃園展演中心展演廳",
-        "city": "桃園",
-        "status": "on_sale"
-      },
-      {
-        "datetime": "2026-12-13T11:30:00+00:00",
-        "venue": "臺北表演藝術中心 大劇院",
-        "city": "台北",
-        "status": "on_sale"
-      }
-    ],
-    "posterUrl": "https://s3.resource.opentix.life/upload/program/1790956339672p0u8fzUvTu.jpeg",
-    "ticketUrl": "https://www.opentix.life/event/1955916913608867841",
-    "priceRange": "NT$ 800 - 2,200",
-    "aiSummary": "⭐️ 花格子藝術有限公司 風動室內樂團 精選呈獻",
-    "description": "2026風動室內樂團《無限》ACG電玩動漫音樂會"
-  },
-  {
     "id": "opentix-2013173153050226689",
     "title": "屏東演藝廳《沙龍音樂會》",
     "organizer": "屏東縣政府",
@@ -476,6 +414,56 @@
     "priceRange": "NT$ 300 - 2,000",
     "aiSummary": "✨ Alexander Liebreich, Piotr Anderszewski & TSO",
     "description": "【2026 TSO 首席指揮】里柏瑞契、安德佐夫斯基與TSO"
+  },
+  {
+    "id": "opentix-1955833404180180992",
+    "title": "2026風動室內樂團《無限》宮崎駿動畫音樂精選",
+    "organizer": "花格子藝術有限公司 風動室內樂團",
+    "source": "opentix",
+    "performers": [
+      "宮崎駿",
+      "無限",
+      "風動"
+    ],
+    "category": "室內樂",
+    "dates": [
+      {
+        "datetime": "2026-12-13T06:30:00+00:00",
+        "venue": "臺北表演藝術中心 大劇院",
+        "city": "台北",
+        "status": "on_sale"
+      }
+    ],
+    "posterUrl": "https://s3.resource.opentix.life/upload/program/1759378407767RSiKTBpDr1.jpeg",
+    "ticketUrl": "https://www.opentix.life/event/1955833404180180992",
+    "priceRange": "NT$ 800 - 2,200",
+    "aiSummary": "⭐️ 花格子藝術有限公司 風動室內樂團 精選呈獻",
+    "description": "2026風動室內樂團《無限》宮崎駿動畫音樂精選"
+  },
+  {
+    "id": "opentix-1955916913608867841",
+    "title": "2026風動室內樂團《無限》ACG電玩動漫音樂會",
+    "organizer": "花格子藝術有限公司 風動室內樂團",
+    "source": "opentix",
+    "performers": [
+      "電玩動漫",
+      "無限",
+      "風動"
+    ],
+    "category": "室內樂",
+    "dates": [
+      {
+        "datetime": "2026-12-13T11:30:00+00:00",
+        "venue": "臺北表演藝術中心 大劇院",
+        "city": "台北",
+        "status": "on_sale"
+      }
+    ],
+    "posterUrl": "https://s3.resource.opentix.life/upload/program/1790956339672p0u8fzUvTu.jpeg",
+    "ticketUrl": "https://www.opentix.life/event/1955916913608867841",
+    "priceRange": "NT$ 800 - 2,200",
+    "aiSummary": "⭐️ 花格子藝術有限公司 風動室內樂團 精選呈獻",
+    "description": "2026風動室內樂團《無限》ACG電玩動漫音樂會"
   },
   {
     "id": "opentix-1956171631240474625",
