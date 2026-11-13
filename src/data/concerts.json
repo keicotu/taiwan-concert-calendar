@@ -244,43 +244,6 @@
     "description": "魔幻樂章-銅管村嘉年華"
   },
   {
-    "id": "opentix-2032303556119486465",
-    "title": "《聲動漫:ACG音樂祭》",
-    "organizer": "聲動室內樂團",
-    "source": "opentix",
-    "performers": [
-      "動漫",
-      "ACG",
-      "航海王"
-    ],
-    "category": "室內樂",
-    "dates": [
-      {
-        "datetime": "2026-11-28T11:30:00+00:00",
-        "venue": "臺中市中山堂",
-        "city": "台中",
-        "status": "on_sale"
-      },
-      {
-        "datetime": "2026-12-12T11:30:00+00:00",
-        "venue": "文山劇場",
-        "city": "台北",
-        "status": "on_sale"
-      },
-      {
-        "datetime": "2026-12-26T11:00:00+00:00",
-        "venue": "高雄市文化中心至善廳",
-        "city": "高雄",
-        "status": "on_sale"
-      }
-    ],
-    "posterUrl": "https://s3.resource.opentix.life/upload/program/1773373817347qVFMATLJ3L.png",
-    "ticketUrl": "https://www.opentix.life/event/2032303556119486465",
-    "priceRange": "NT$ 600 - 1,200",
-    "aiSummary": "✨ Anisonic Anime: ACG Music Festival",
-    "description": "《聲動漫:ACG音樂祭》"
-  },
-  {
     "id": "opentix-1992891801301155841",
     "title": "【2026 TSO 首席指揮】里柏瑞契、喬瑟芙維琪與TSO",
     "organizer": "臺北市立交響樂團",
@@ -366,6 +329,37 @@
     "priceRange": "NT$ 300 - 2,000",
     "aiSummary": "✨ Alexander Liebreich, Piotr Anderszewski & TSO",
     "description": "【2026 TSO 首席指揮】里柏瑞契、安德佐夫斯基與TSO"
+  },
+  {
+    "id": "opentix-2032017897215483905",
+    "title": "《聲之響宴:宮崎駿動畫音樂會》",
+    "organizer": "聲動室內樂團",
+    "source": "opentix",
+    "performers": [
+      "宮崎駿",
+      "薩克斯風五重奏",
+      "千與千尋"
+    ],
+    "category": "室內樂",
+    "dates": [
+      {
+        "datetime": "2026-12-12T06:30:00+00:00",
+        "venue": "文山劇場",
+        "city": "台北",
+        "status": "on_sale"
+      },
+      {
+        "datetime": "2026-12-26T06:30:00+00:00",
+        "venue": "高雄市文化中心至善廳",
+        "city": "高雄",
+        "status": "on_sale"
+      }
+    ],
+    "posterUrl": "https://s3.resource.opentix.life/upload/program/1773305666573HMPHk2x1Ym.png",
+    "ticketUrl": "https://www.opentix.life/event/2032017897215483905",
+    "priceRange": "NT$ 800 - 1,200",
+    "aiSummary": "✨ \"Feast of Sound: Hayao Miyazaki Animation Concert\"",
+    "description": "《聲之響宴:宮崎駿動畫音樂會》"
   },
   {
     "id": "opentix-2013173153050226689",
