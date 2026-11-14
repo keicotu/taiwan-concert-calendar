@@ -1,30 +1,5 @@
 [
   {
-    "id": "opentix-1993269592550359041",
-    "title": "【2026 TSO 大師系列】殷巴爾、霍洛登科與TSO",
-    "organizer": "臺北市立交響樂團",
-    "source": "opentix",
-    "performers": [
-      "殷巴爾",
-      "春之祭",
-      "霍洛登科"
-    ],
-    "category": "交響樂",
-    "dates": [
-      {
-        "datetime": "2026-11-13T11:30:00+00:00",
-        "venue": "國家音樂廳",
-        "city": "台北",
-        "status": "on_sale"
-      }
-    ],
-    "posterUrl": "https://s3.resource.opentix.life/upload/program/179023873377600pEbPu8vq.jpeg",
-    "ticketUrl": "https://www.opentix.life/event/1993269592550359041",
-    "priceRange": "NT$ 300 - 2,000",
-    "aiSummary": "✨ Eliahu Inbal, Vadym Kholodenko & TSO",
-    "description": "【2026 TSO 大師系列】殷巴爾、霍洛登科與TSO"
-  },
-  {
     "id": "opentix-1993239082164842497",
     "title": "卡通大冒險-親子音樂會",
     "organizer": "金喇叭銅管樂團",
@@ -242,6 +217,43 @@
     "priceRange": "NT$ 300 - 1,200",
     "aiSummary": "⭐️ 金喇叭銅管樂團 精選呈獻",
     "description": "魔幻樂章-銅管村嘉年華"
+  },
+  {
+    "id": "opentix-2032303556119486465",
+    "title": "《聲動漫:ACG音樂祭》",
+    "organizer": "聲動室內樂團",
+    "source": "opentix",
+    "performers": [
+      "動漫",
+      "ACG",
+      "航海王"
+    ],
+    "category": "室內樂",
+    "dates": [
+      {
+        "datetime": "2026-11-28T11:30:00+00:00",
+        "venue": "臺中市中山堂",
+        "city": "台中",
+        "status": "on_sale"
+      },
+      {
+        "datetime": "2026-12-12T11:30:00+00:00",
+        "venue": "文山劇場",
+        "city": "台北",
+        "status": "on_sale"
+      },
+      {
+        "datetime": "2026-12-26T11:00:00+00:00",
+        "venue": "高雄市文化中心至善廳",
+        "city": "高雄",
+        "status": "on_sale"
+      }
+    ],
+    "posterUrl": "https://s3.resource.opentix.life/upload/program/1773373817347qVFMATLJ3L.png",
+    "ticketUrl": "https://www.opentix.life/event/2032303556119486465",
+    "priceRange": "NT$ 600 - 1,200",
+    "aiSummary": "✨ Anisonic Anime: ACG Music Festival",
+    "description": "《聲動漫:ACG音樂祭》"
   },
   {
     "id": "opentix-1992891801301155841",
