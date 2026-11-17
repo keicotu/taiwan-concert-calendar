@@ -50,29 +50,6 @@
     "description": "【2026 TSO 室內沙龍】對映之聲 ——他與她的音樂對話"
   },
   {
-    "id": "mna-784",
-    "title": "【MNA 牛耳藝術】SM CLASSICS LIVE 2026 IN TAIPEI",
-    "organizer": "MNA 牛耳藝術",
-    "source": "mna",
-    "performers": [
-      "SM CLASSICS LIVE 2026 IN TAIPEI"
-    ],
-    "category": "交響樂",
-    "dates": [
-      {
-        "datetime": "2026-11-25T19:30:00+00:00",
-        "venue": "國家音樂廳",
-        "city": "台北",
-        "status": "on_sale"
-      }
-    ],
-    "posterUrl": "https://www.mna.com.tw/storage/app/uploads/public/6ac/5d3/200/6ac5d32005082876318575.jpg",
-    "ticketUrl": "https://ticket.mna.com.tw/UTK0102_?TYPE=0",
-    "priceRange": "詳見牛耳售票系統",
-    "aiSummary": "⭐️ MNA 牛耳藝術年度呈獻：SM CLASSICS LIVE 2026 IN TAIPEI",
-    "description": "MNA 牛耳藝術官方主辦頂尖音樂盛事 — SM CLASSICS LIVE 2026 IN TAIPEI，更多巡演場次與節目細節請參閱官方詳情。"
-  },
-  {
     "id": "mna-777",
     "title": "【MNA 牛耳藝術】Philharmonix",
     "organizer": "MNA 牛耳藝術",
@@ -142,29 +119,6 @@
     "description": "MNA 牛耳藝術官方主辦頂尖音樂盛事 — Lang Lang Piano Recital，更多巡演場次與節目細節請參閱官方詳情。"
   },
   {
-    "id": "mna-783",
-    "title": "【MNA 牛耳藝術】Twilight: New Moon in Concert",
-    "organizer": "MNA 牛耳藝術",
-    "source": "mna",
-    "performers": [
-      "Twilight: New Moon in Concert"
-    ],
-    "category": "跨界合奏",
-    "dates": [
-      {
-        "datetime": "2026-11-25T19:30:00+00:00",
-        "venue": "國家音樂廳",
-        "city": "台北",
-        "status": "on_sale"
-      }
-    ],
-    "posterUrl": "https://www.mna.com.tw/storage/app/uploads/public/6ab/b6b/9bc/6abb6b9bc2cc8637978749.jpg",
-    "ticketUrl": "https://ticket.mna.com.tw/UTK0102_?TYPE=0",
-    "priceRange": "詳見牛耳售票系統",
-    "aiSummary": "⭐️ MNA 牛耳藝術年度呈獻：Twilight: New Moon in Concert",
-    "description": "MNA 牛耳藝術官方主辦頂尖音樂盛事 — Twilight: New Moon in Concert，更多巡演場次與節目細節請參閱官方詳情。"
-  },
-  {
     "id": "mna-782",
     "title": "【MNA 牛耳藝術】Marc André Double Bass Concert",
     "organizer": "MNA 牛耳藝術",
@@ -186,6 +140,52 @@
     "priceRange": "詳見牛耳售票系統",
     "aiSummary": "⭐️ MNA 牛耳藝術年度呈獻：Marc André Double Bass Concert",
     "description": "MNA 牛耳藝術官方主辦頂尖音樂盛事 — Marc André Double Bass Concert，更多巡演場次與節目細節請參閱官方詳情。"
+  },
+  {
+    "id": "mna-781",
+    "title": "【MNA 牛耳藝術】INTERSTELLAR LIVE",
+    "organizer": "MNA 牛耳藝術",
+    "source": "mna",
+    "performers": [
+      "INTERSTELLAR LIVE"
+    ],
+    "category": "交響樂",
+    "dates": [
+      {
+        "datetime": "2026-11-25T19:30:00+00:00",
+        "venue": "國家音樂廳",
+        "city": "台北",
+        "status": "on_sale"
+      }
+    ],
+    "posterUrl": "https://www.mna.com.tw/storage/app/uploads/public/6ab/65d/948/6ab65d94848db606525698.jpg",
+    "ticketUrl": "https://ticket.mna.com.tw/UTK0102_?TYPE=0",
+    "priceRange": "詳見牛耳售票系統",
+    "aiSummary": "⭐️ MNA 牛耳藝術年度呈獻：INTERSTELLAR LIVE",
+    "description": "MNA 牛耳藝術官方主辦頂尖音樂盛事 — INTERSTELLAR LIVE，更多巡演場次與節目細節請參閱官方詳情。"
+  },
+  {
+    "id": "mna-775",
+    "title": "【MNA 牛耳藝術】Yuja Wang and Mahler Chamber Orchestra",
+    "organizer": "MNA 牛耳藝術",
+    "source": "mna",
+    "performers": [
+      "Yuja Wang and Mahler Chamber Orchestra"
+    ],
+    "category": "交響樂",
+    "dates": [
+      {
+        "datetime": "2026-11-25T19:30:00+00:00",
+        "venue": "國家音樂廳",
+        "city": "台北",
+        "status": "on_sale"
+      }
+    ],
+    "posterUrl": "https://www.mna.com.tw/storage/app/uploads/public/6ae/85f/2ed/6ae85f2ed0f71912802512.jpg",
+    "ticketUrl": "https://ticket.mna.com.tw/UTK0102_?TYPE=0",
+    "priceRange": "詳見牛耳售票系統",
+    "aiSummary": "⭐️ MNA 牛耳藝術年度呈獻：Yuja Wang and Mahler Chamber Orchestra",
+    "description": "MNA 牛耳藝術官方主辦頂尖音樂盛事 — Yuja Wang and Mahler Chamber Orchestra，更多巡演場次與節目細節請參閱官方詳情。"
   },
   {
     "id": "opentix-2028634382323146752",
