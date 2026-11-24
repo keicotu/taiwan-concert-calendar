@@ -69,29 +69,6 @@
     "description": "MNA 牛耳藝術官方主辦頂尖音樂盛事 — Lang Lang Piano Recital，更多巡演場次與節目細節請參閱官方詳情。"
   },
   {
-    "id": "mna-782",
-    "title": "【MNA 牛耳藝術】Marc André Double Bass Concert",
-    "organizer": "MNA 牛耳藝術",
-    "source": "mna",
-    "performers": [
-      "Marc André Double Bass Concert"
-    ],
-    "category": "室內樂",
-    "dates": [
-      {
-        "datetime": "2026-11-25T19:30:00+00:00",
-        "venue": "國家音樂廳",
-        "city": "台北",
-        "status": "on_sale"
-      }
-    ],
-    "posterUrl": "https://www.mna.com.tw/storage/app/uploads/public/6ab/b68/f58/6abb68f58d3c4047474744.jpg",
-    "ticketUrl": "https://ticket.mna.com.tw/UTK0102_?TYPE=0",
-    "priceRange": "詳見牛耳售票系統",
-    "aiSummary": "⭐️ MNA 牛耳藝術年度呈獻：Marc André Double Bass Concert",
-    "description": "MNA 牛耳藝術官方主辦頂尖音樂盛事 — Marc André Double Bass Concert，更多巡演場次與節目細節請參閱官方詳情。"
-  },
-  {
     "id": "mna-781",
     "title": "【MNA 牛耳藝術】INTERSTELLAR LIVE",
     "organizer": "MNA 牛耳藝術",
@@ -136,6 +113,29 @@
     "priceRange": "詳見牛耳售票系統",
     "aiSummary": "⭐️ MNA 牛耳藝術年度呈獻：Yuja Wang and Mahler Chamber Orchestra",
     "description": "MNA 牛耳藝術官方主辦頂尖音樂盛事 — Yuja Wang and Mahler Chamber Orchestra，更多巡演場次與節目細節請參閱官方詳情。"
+  },
+  {
+    "id": "mna-780",
+    "title": "【MNA 牛耳藝術】&quot;𝘼𝙩𝙩𝙖𝙘𝙠 𝙤𝙣 𝙏𝙞𝙩𝙖𝙣&quot; -𝘽𝙚𝙮𝙤𝙣𝙙 𝙩𝙝𝙚 𝙒𝙖𝙡𝙡𝙨 𝙒𝙤𝙧𝙡𝙙 𝙏𝙤𝙪𝙧-",
+    "organizer": "MNA 牛耳藝術",
+    "source": "mna",
+    "performers": [
+      "&quot;𝘼𝙩𝙩𝙖𝙘𝙠 𝙤𝙣 𝙏𝙞𝙩𝙖𝙣&quot; -𝘽𝙚𝙮𝙤𝙣𝙙 𝙩𝙝𝙚 𝙒𝙖𝙡𝙡𝙨 𝙒𝙤𝙧𝙡𝙙 𝙏𝙤𝙪𝙧-"
+    ],
+    "category": "交響樂",
+    "dates": [
+      {
+        "datetime": "2026-11-25T19:30:00+00:00",
+        "venue": "國家音樂廳",
+        "city": "台北",
+        "status": "on_sale"
+      }
+    ],
+    "posterUrl": "https://www.mna.com.tw/storage/app/uploads/public/6aa/b84/515/6aab8451550cd100674268.jpg",
+    "ticketUrl": "https://ticket.mna.com.tw/UTK0102_?TYPE=0",
+    "priceRange": "詳見牛耳售票系統",
+    "aiSummary": "⭐️ MNA 牛耳藝術年度呈獻：&quot;𝘼𝙩𝙩𝙖𝙘𝙠 𝙤𝙣 𝙏𝙞𝙩𝙖𝙣&quot; -𝘽𝙚𝙮𝙤𝙣𝙙 𝙩𝙝𝙚 𝙒𝙖𝙡𝙡𝙨 𝙒𝙤𝙧𝙡𝙙 𝙏𝙤𝙪𝙧-",
+    "description": "MNA 牛耳藝術官方主辦頂尖音樂盛事 — &quot;𝘼𝙩𝙩𝙖𝙘𝙠 𝙤𝙣 𝙏𝙞𝙩𝙖𝙣&quot; -𝘽𝙚𝙮𝙤𝙣𝙙 𝙩𝙝𝙚 𝙒𝙖𝙡𝙡𝙨 𝙒𝙤𝙧𝙡𝙙 𝙏𝙤𝙪𝙧-，更多巡演場次與節目細節請參閱官方詳情。"
   },
   {
     "id": "opentix-2028634382323146752",
